@@ -1,0 +1,12 @@
+.video_file{
+    margin: 4px;
+    border-radius: 8px;
+    width: 560px;
+    height: 315px;
+}
+
+.video_title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 12px;
+}
